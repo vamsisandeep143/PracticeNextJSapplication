@@ -1,0 +1,2 @@
+# PracticeNextJSapplication
+Practice project
